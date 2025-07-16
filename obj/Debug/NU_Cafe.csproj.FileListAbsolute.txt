@@ -1,0 +1,13 @@
+D:\All_my_programming_file\norton_university_code\nu_2025\co2as1_2025_s2\advance_dbs_AS1S2Y2\assignment\NU_Cafe\NU_Cafe\bin\Debug\NU_Cafe.exe.config
+D:\All_my_programming_file\norton_university_code\nu_2025\co2as1_2025_s2\advance_dbs_AS1S2Y2\assignment\NU_Cafe\NU_Cafe\bin\Debug\NU_Cafe.exe
+D:\All_my_programming_file\norton_university_code\nu_2025\co2as1_2025_s2\advance_dbs_AS1S2Y2\assignment\NU_Cafe\NU_Cafe\bin\Debug\NU_Cafe.pdb
+D:\All_my_programming_file\norton_university_code\nu_2025\co2as1_2025_s2\advance_dbs_AS1S2Y2\assignment\NU_Cafe\NU_Cafe\obj\Debug\NU_Cafe.csproj.AssemblyReference.cache
+D:\All_my_programming_file\norton_university_code\nu_2025\co2as1_2025_s2\advance_dbs_AS1S2Y2\assignment\NU_Cafe\NU_Cafe\obj\Debug\NU_Cafe.LoginView.resources
+D:\All_my_programming_file\norton_university_code\nu_2025\co2as1_2025_s2\advance_dbs_AS1S2Y2\assignment\NU_Cafe\NU_Cafe\obj\Debug\NU_Cafe.Properties.Resources.resources
+D:\All_my_programming_file\norton_university_code\nu_2025\co2as1_2025_s2\advance_dbs_AS1S2Y2\assignment\NU_Cafe\NU_Cafe\obj\Debug\NU_Cafe.csproj.GenerateResource.cache
+D:\All_my_programming_file\norton_university_code\nu_2025\co2as1_2025_s2\advance_dbs_AS1S2Y2\assignment\NU_Cafe\NU_Cafe\obj\Debug\NU_Cafe.csproj.CoreCompileInputs.cache
+D:\All_my_programming_file\norton_university_code\nu_2025\co2as1_2025_s2\advance_dbs_AS1S2Y2\assignment\NU_Cafe\NU_Cafe\obj\Debug\NU_Cafe.exe
+D:\All_my_programming_file\norton_university_code\nu_2025\co2as1_2025_s2\advance_dbs_AS1S2Y2\assignment\NU_Cafe\NU_Cafe\obj\Debug\NU_Cafe.pdb
+D:\All_my_programming_file\norton_university_code\nu_2025\co2as1_2025_s2\advance_dbs_AS1S2Y2\assignment\NU_Cafe\NU_Cafe\obj\Debug\NU_Cafe.exe.config
+D:\All_my_programming_file\norton_university_code\nu_2025\co2as1_2025_s2\advance_dbs_AS1S2Y2\assignment\NU_Cafe\NU_Cafe\obj\Debug\NU_Cafe.DashboardView.resources
+D:\All_my_programming_file\norton_university_code\nu_2025\co2as1_2025_s2\advance_dbs_AS1S2Y2\assignment\NU_Cafe\NU_Cafe\obj\Debug\NU_Cafe.OrderDetail.resources
